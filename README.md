@@ -1,6 +1,6 @@
 # Awesome AI Shopping Agents
 
-### TRY [Kael.im](https://kael.im/home)(NotebookLM slides alternative) and register at this link for 100 pages free daily quota (nbp)!
+### TRY [Kael.im](https://kael.im/home) to upload AI commerce research papers and get instant slides and summaries, 100 pages free daily!
 
 A curated list of AI shopping agents, platform policies, and the emerging agentic commerce landscape.
 
