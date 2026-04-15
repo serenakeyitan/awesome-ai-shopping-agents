@@ -27,6 +27,7 @@ A curated list of AI shopping agents, platform policies, and the emerging agenti
 | **Google Shopping AI** | Google | Search integration | Built into Google Search, visual product matching, price tracking | No |
 | **Rufus** | Amazon | In-app assistant | Product Q&A, comparison, recommendation within Amazon | No |
 | **ShopBot** | eBay | Buyer agent | Autonomous bidding, deal finding within eBay | No |
+| **[ShopSavvy Desktop](https://shopsavvy.com/desktop)** | Monolith Technologies | Desktop agent | Autonomous checkout across retailers, auto-buy at target prices, background price monitoring, voice agent that calls stores | No |
 | **Klarna AI** | Klarna | Payment + shopping | Price comparison across retailers, payment integration | No |
 | **MultiOn** | MultiOn | Browser automation | Works across any website, multi-tab shopping, autonomous checkout | No |
 | **Agent Commerce Kit** | ACK Contributors | Toolkit | Open-source toolkit for building agentic commerce apps | [Yes](https://github.com/agentcommercekit/ack) |
