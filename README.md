@@ -31,6 +31,7 @@ A curated list of AI shopping agents, platform policies, and the emerging agenti
 | **MultiOn** | MultiOn | Browser automation | Works across any website, multi-tab shopping, autonomous checkout | No |
 | **Agent Commerce Kit** | ACK Contributors | Toolkit | Open-source toolkit for building agentic commerce apps | [Yes](https://github.com/agentcommercekit/ack) |
 | **Daydreams Skills Market** | Daydreams AI | Skills marketplace | Marketplace for agentic commerce skills and workflows | [Yes](https://github.com/daydreamsai/skills-market) |
+| **BuyWhere MCP** | BuyWhere | Product search MCP server | Real-time product search & price comparison across 11M+ products (Shopee, Lazada, Best Buy, Walmart) via MCP protocol. Self-serve API keys. | [Yes](https://github.com/BuyWhere/buywhere-mcp) |
 
 ---
 
